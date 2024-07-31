@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
+  <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
+    <mxGraphModel dx="2040" dy="1293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gv_nPKIk_8mZTtlqXIay-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Proxmox&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="136.52" y="490" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gv_nPKIk_8mZTtlqXIay-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/v2/resize:fit:1055/1*SVwXAfwH45iB5RLcwmS93g.png;" vertex="1" parent="1">
+          <mxGeometry x="140" y="320" width="103.03" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gv_nPKIk_8mZTtlqXIay-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/v2/resize:fit:1055/1*SVwXAfwH45iB5RLcwmS93g.png;" vertex="1" parent="1">
+          <mxGeometry x="270" y="320" width="103.03" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gv_nPKIk_8mZTtlqXIay-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/v2/resize:fit:1055/1*SVwXAfwH45iB5RLcwmS93g.png;" vertex="1" parent="1">
+          <mxGeometry x="390" y="320" width="103.03" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gv_nPKIk_8mZTtlqXIay-5" value="master" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="136.52" y="270" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gv_nPKIk_8mZTtlqXIay-6" value="cluster1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="261.52" y="270" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gv_nPKIk_8mZTtlqXIay-7" value="cluster2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="395" y="270" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gv_nPKIk_8mZTtlqXIay-8" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Cluster-API&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="430" width="540" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
